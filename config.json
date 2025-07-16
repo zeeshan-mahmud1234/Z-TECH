@@ -1,0 +1,18 @@
+{
+  "ivasms": {
+    "login_url": "https://www.ivasms.com/login",
+    "dashboard_url": "https://www.ivasms.com/portal/live/my_sms",
+    "email": "zeeshaneditz44@gmail.com",
+    "password": "zeeshan98@#"
+  },
+  "telegram": {
+    "bot_token": "7304476931:AAEExtnA6nmd_0o6aYhdGey5wzMCL-3eHp8",
+    "chat_id": -4777474557,
+    "send_to_group": true
+  },
+  "scraper": {
+    "delay_seconds": 3,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+    "use_proxy": false
+  }
+}
